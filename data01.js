@@ -1,4 +1,4 @@
-{ "name:="quote",
+{ "name":"quote",
 [
 {"author":"Dracula","content":"Listen to them. Children of the night. What music they make."},
 {"author":"James Branch Cabell","content":"The optimist proclaims that we live in the best of all possible worlds, and the pessimist fears this is true."},
